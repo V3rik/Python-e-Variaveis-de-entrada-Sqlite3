@@ -1,0 +1,1 @@
+# Python-e-Variaveis-de-entrada-Sqlite3
